@@ -16,6 +16,7 @@ This is a Vue3 static website that presents my different works and projects that
 To run this project localy, run
 
 ```bash
+git clone 'https://github.com/mariuslupo/portfolio.git'
 cd portfolio
 npm run serve
 ```
