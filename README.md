@@ -8,7 +8,7 @@ This is a Vue3 static website that presents my different works and projects that
 
 ## Demo
 
-[Lien vers le site](https://github.com/mariuslupo)
+[Link of the website](https://github.com/mariuslupo)
 
 
 ## Deployment
