@@ -4,7 +4,7 @@
     <p>VueJS</p>
     <p>Machine learning</p>
     <p>Flutter</p>
-    <p>NodeJS</p>
+    <!-- <p>NodeJS</p> -->
   </div>
 </template>
 

@@ -14,7 +14,8 @@
           :Titre="x.Titre"
           :Lien="x.Lien"
           :Description="x.Description"
-          :competence="x.competence"
+          :Competence="x.competence"
+          :Image="x.Image"
         />
       </div>
     </div>
@@ -55,6 +56,7 @@ body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f9fafb;
   text-align: center;
   color: #2c3e50;
   height: 100vh;
@@ -73,12 +75,14 @@ p {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-top: 5px;
+  background-color: white;
 }
 
 #bas {
   background-color: #f9fafb;
   width: 100%;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 #haut h3 {
@@ -88,5 +92,18 @@ p {
 #bas h2 {
   text-align: start;
   margin-left: 6.5%;
+}
+
+#listeProjets {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding-bottom: 10px;
+}
+
+#listeProjets img {
+  width: 100%;
+  height: 175px;
+  object-fit: fill;
 }
 </style>

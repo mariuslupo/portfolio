@@ -1,13 +1,13 @@
 <template>
   <div>
-    <img alt="Vue logo" src="../../assets/marius.jpg" id="imgPrincipale" />
+    <img alt="Vue logo" src="@/assets/marius.jpg" id="imgPrincipale" />
 
     <div>
       <h1>Marius Luporsi</h1>
       <h3>Software developer</h3>
       <div id="localisation">
         <img
-          src="../../assets/localisation.png"
+          src="@/assets/localisation.png"
           alt="icone localisation"
           id="imgLocalisation"
         />

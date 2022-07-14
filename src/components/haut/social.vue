@@ -4,13 +4,13 @@
       href="https://www.linkedin.com/in/marius-luporsi-a637771a2"
       target="_blank"
     >
-      <img alt="LinkedIn logo" src="../../assets/linkedin.png" />
+      <img alt="LinkedIn logo" src="@/assets/linkedin.png" />
     </a>
     <a href="https://github.com/mariuslupo" target="_blank">
-      <img alt="Github logo" src="../../assets/github.png" />
+      <img alt="Github logo" src="@/assets/github.png" />
     </a>
     <a href="https://www.kaggle.com/marius9991" target="_blank">
-      <img alt="Kaggle logo" src="../../assets/kaggle.png" id="kaggle" />
+      <img alt="Kaggle logo" src="@/assets/kaggle.png" id="kaggle" />
     </a>
     <!-- <a href="https://www.kaggle.com/marius9991" target="_blank">
           <img alt="CV logo" src="./assets/cv.png"/>
