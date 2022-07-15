@@ -3,7 +3,7 @@ export const mesProjets = [
         Titre: "Song classifier (In progress)",
         Description:
             "It is a ML project with a web interface made with streamlit. The goal is to predict the genre of a song using machine learning.",
-        Lien: "https://www.google.com",
+        Lien: "*",
         Image: "songClassifier",
         competence: ["Python", "Machine learning"],
     },

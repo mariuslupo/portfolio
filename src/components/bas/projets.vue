@@ -1,7 +1,7 @@
 <template>
   <div class="projet" @click="redirect(Lien)">
     <div class="imageProject">
-      <img alt="Lien logo" :src="require(`../../assets/${Image}.jpg`)"/>
+      <img alt="Lien logo" :src="require(`../../assets/${Image}.jpg`)" />
     </div>
     <div id="textProject">
       <h3>{{ Titre }}</h3>
