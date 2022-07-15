@@ -1,24 +1,28 @@
-# portfolio_marius
+# My portfolio
 
-## Project setup
-```
-npm install
-```
+This repository contains my portfolio.
 
-### Compiles and hot-reloads for development
-```
+This is a Vue3 static website that presents my different works and projects that I realized during my caree.
+
+
+## Demo
+
+[Link of the website](https://github.com/mariuslupo)
+
+
+## Deployment
+
+To run this project localy, run
+
+```bash
+git clone https://github.com/mariuslupo/portfolio.git
+cd portfolio
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+To deploy this project, you can use docker.
+here is a link to a [tutorial](https://fr.vuejs.org/v2/cookbook/dockerize-vuejs-app.html)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Authors
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Marius Luporsi](https://github.com/mariuslupo)
