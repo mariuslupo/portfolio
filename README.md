@@ -1,4 +1,4 @@
-# My portfolio test
+# My portfolio
 
 This repository contains my portfolio.
 
